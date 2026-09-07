@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "uml_diagram.Main",
+            "projectName": "LowLevelDesign"
+        },
+        {
+            "type": "java",
             "name": "Nic",
             "request": "launch",
             "mainClass": "hello.nic.Nic",
