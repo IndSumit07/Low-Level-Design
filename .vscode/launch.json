@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Nic",
+            "request": "launch",
+            "mainClass": "hello.nic.Nic",
+            "projectName": "LowLevelDesign"
+        },
+        {
+            "type": "java",
+            "name": "Hi",
+            "request": "launch",
+            "mainClass": "hello.Hi",
+            "projectName": "LowLevelDesign"
+        },
+        {
+            "type": "java",
+            "name": "Run Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "LowLevelDesign"
+        }
+    ]
+}
