@@ -7,5 +7,6 @@
         "**/.classpath": true,
         "**/.project": true,
         "**/.settings": true
-    }
+    },
+    "java.debug.settings.onBuildFailureProceed": true
 }

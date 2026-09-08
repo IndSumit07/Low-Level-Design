@@ -3,6 +3,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OCPFollowed",
+            "request": "launch",
+            "mainClass": "solid_design_principles.open_close_principle.OCPFollowed",
+            "projectName": "LowLevelDesign"
+        },
+        {
+            "type": "java",
+            "name": "OCPViolated",
+            "request": "launch",
+            "mainClass": "solid_design_principles.open_close_principle.OCPViolated",
+            "projectName": "LowLevelDesign"
+        },
+        {
+            "type": "java",
+            "name": "SRPFollowed",
+            "request": "launch",
+            "mainClass": "solid_design_principles.single_responsibility_principle.SRPFollowed",
+            "projectName": "LowLevelDesign"
+        },
+        {
+            "type": "java",
+            "name": "SRPViolated",
+            "request": "launch",
+            "mainClass": "solid_design_principles.single_responsibility_principle.SRPViolated",
+            "projectName": "LowLevelDesign"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "uml_diagram.Main",
