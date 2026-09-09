@@ -3,6 +3,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LSPFollowed",
+            "request": "launch",
+            "mainClass": "solid_design_principles.liskov_substitution_principle.LSPFollowed",
+            "projectName": "LowLevelDesign"
+        },
+        {
+            "type": "java",
+            "name": "LSPFollowedWrongly",
+            "request": "launch",
+            "mainClass": "solid_design_principles.liskov_substitution_principle.LSPFollowedWrongly",
+            "projectName": "LowLevelDesign"
+        },
+        {
+            "type": "java",
+            "name": "LSPViolated",
+            "request": "launch",
+            "mainClass": "solid_design_principles.liskov_substitution_principle.LSPViolated",
+            "projectName": "LowLevelDesign"
+        },
+        {
+            "type": "java",
             "name": "OCPFollowed",
             "request": "launch",
             "mainClass": "solid_design_principles.open_close_principle.OCPFollowed",
