@@ -3,6 +3,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExceptionRule",
+            "request": "launch",
+            "mainClass": "solid_design_principles.liskov_substitution_principle.lsp_rules.signature_rules.ExceptionRule",
+            "projectName": "LowLevelDesign"
+        },
+        {
+            "type": "java",
+            "name": "ReturnTypeRule",
+            "request": "launch",
+            "mainClass": "solid_design_principles.liskov_substitution_principle.lsp_rules.signature_rules.ReturnTypeRule",
+            "projectName": "LowLevelDesign"
+        },
+        {
+            "type": "java",
+            "name": "MethodArgumentRule",
+            "request": "launch",
+            "mainClass": "solid_design_principles.liskov_substitution_principle.lsp_rules.signature_rules.MethodArgumentRule",
+            "projectName": "LowLevelDesign"
+        },
+        {
+            "type": "java",
             "name": "LSPFollowed",
             "request": "launch",
             "mainClass": "solid_design_principles.liskov_substitution_principle.LSPFollowed",
